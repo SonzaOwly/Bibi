@@ -2,4 +2,4 @@
 
 Simple fibonacci number calculator.
 
-Usage: fib <nth Fibonacci number>
+Usage: fib *nth Fibonacci number*
